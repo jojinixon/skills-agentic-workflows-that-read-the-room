@@ -18,6 +18,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 
 safe-outputs:
   create-pull-request:
@@ -34,6 +35,7 @@ Keep `site/content/github-info.md` current with concise, practical guidance for 
 2. Use `web-fetch` to read:
    - https://github.blog/latest/
    - https://github.blog/changelog/
+    - https://awesome-copilot.github.com/workflows/
 3. Select only recent, relevant items that support practical guidance for Mona's audience. Verify details and dates against the official pages; do not invent or infer unsupported claims.
 
 ## Update
