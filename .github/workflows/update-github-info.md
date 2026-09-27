@@ -4,6 +4,8 @@ on:
   schedule: daily
   workflow_dispatch:
 
+model: auto
+
 permissions:
   contents: read
   pull-requests: read
